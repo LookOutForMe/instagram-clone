@@ -1,8 +1,6 @@
 
 # Instagram Clone
 
-![Project Image](project-image.png)
-
 > An Instagram clone project built with HTML and CSS.
 
 ---
